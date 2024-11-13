@@ -1,13 +1,1 @@
-"A Multi-Model Framework for Forecasting Urban Temperature Trends: A Comparative Study of Statistical and Deep Learning Approaches in Dhaka City"
-
-"Blending Traditional and Deep Learning Models for Urban Climate Forecasting: A Case Study of Dhaka City’s Temperature Trends"
-
-"Integrating Statistical and Neural Network Approaches for Temperature Prediction: Comparative Time Series Analysis in Dhaka City"
-
-"Forecasting Mean Temperature in Dhaka City Using a Fusion of Statistical and Deep Learning Models: A Comparative Time Series Approach"
-
-"Innovative Time Series Modeling for Urban Temperature Prediction: A Comparative Study of Statistical and AI Techniques in Dhaka"
-
-"Urban Temperature Forecasting in Dhaka: A Multi-Model Analysis Combining Traditional and Neural Network Approaches"
-
-"Exploring Statistical and Machine Learning Models for Temperature Prediction: A Comprehensive Study on Dhaka City’s Climate Patterns"
+A Comparative Study of Statistical and Deep Learning Models for Urban Weather Forecasting in Dhaka City"
